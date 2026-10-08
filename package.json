@@ -1,0 +1,29 @@
+{
+  "name": "sistema-de-streaming-de-v-deo",
+  "version": "1.0.0",
+  "description": "Sistema de Streaming de Vídeo desenvolvido em TypeScript para a disciplina de Padrões de Projeto.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoria-santos782/Sistema-de-streaming-de-v-deo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vitoria-santos782/Sistema-de-streaming-de-v-deo/issues"
+  },
+  "homepage": "https://github.com/vitoria-santos782/Sistema-de-streaming-de-v-deo#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  }
+}
